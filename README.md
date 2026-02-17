@@ -2,8 +2,9 @@
 A hand-currated list of opensource, free, and useful [Sharkord](https://sharkord.com/) projects — perfect for enhancing the user/admin experince.
 
 ## Index
-- [Clients](#Clients)
-- [Plugins](#Plugins)
+- [Clients](#clients)
+- [Plugins](#plugins)
+- [Other Info](#other-info)
 
 ## Clients
 Coming Soon
