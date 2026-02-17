@@ -11,3 +11,6 @@ Coming Soon
 ## Plugins 
 Coming Soon
 
+## Credits
+- Inspired by the [public-api-lists](https://github.com/public-api-lists/public-api-lists) repo
+- Origional idea by [Sweets](https://github.com/Sweets-omg)
