@@ -1,5 +1,5 @@
 # Cool Sharkord Projects
-A hand-currated list of opensource, free, and useful sharkord projects — perfect for enhancing the user/admin experince.
+A hand-currated list of opensource, free, and useful [Sharkord](https://sharkord.com/) projects — perfect for enhancing the user/admin experince.
 
 ## Index
 - [Clients](#Clients)
@@ -13,7 +13,7 @@ Coming Soon
 
 ## Other Info
 ### Contributing
-See CONTRIBUTING.md
+See [CONTRIBUTING.md](https://github.com/TankObliterator/cool-sharkord-projects?tab=contributing-ov-file)
 
 ### Credits
 - Inspired by the [public-api-lists](https://github.com/public-api-lists/public-api-lists) repo
