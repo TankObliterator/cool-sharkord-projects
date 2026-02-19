@@ -15,8 +15,8 @@ Coming Soon
 ## Plugins
 | Project | Description | Status |
 | :---: | --- | :---: |
-| [sharkord-music-bot](https://github.com/diogomartino/sharkord-music-bot) | A plugin that allows users to stream music directly within Sharkord | Working |
-| [sharkord-iptv](https://github.com/diogomartino/sharkord-iptv) | A plugin that allows users to stream IPTV channels directly within Sharkord | Working |
+| [sharkord-music-bot](https://github.com/diogomartino/sharkord-music-bot) | Streams music directly in Sharkord | Working |
+| [sharkord-iptv](https://github.com/diogomartino/sharkord-iptv) | Streams IPTV channels directly in Sharkord | Working |
 
 ## Other Info
 ### Contributing
