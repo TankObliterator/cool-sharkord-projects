@@ -10,7 +10,9 @@ A hand-curated list of open, free, and useful [Sharkord](https://sharkord.com/) 
 - [Other Info](#other-info)
 
 ## Clients
-Coming Soon
+| Project | Description | Status |
+| :---: | --- | :---: |
+| Coming Soon | Coming Soon | Working |
 
 ## Plugins
 | Project | Description | Status |
