@@ -13,7 +13,10 @@ A hand-curated list of open, free, and useful [Sharkord](https://sharkord.com/) 
 Coming Soon
 
 ## Plugins
-Coming Soon
+| Project | Description | Status |
+| :---: | --- | :---: |
+| [sharkord-music-bot](https://github.com/diogomartino/sharkord-music-bot) | A plugin that allows users to stream music directly within Sharkord | Working |
+| [sharkord-iptv](https://github.com/diogomartino/sharkord-iptv) | A plugin that allows users to stream IPTV channels directly within Sharkord | Working |
 
 ## Other Info
 ### Contributing
