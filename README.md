@@ -11,7 +11,7 @@ A hand-curated list of open, free, and useful [Sharkord](https://sharkord.com/) 
 
 ## Clients
 🟩Full Support
-🟨Build Yourself
+🟨May Work but Must Build Yourself
 🟥No Support
 | Project | Description | Windows | Linux | MacOS |
 | :---: | --- | :---: | :---: | :---: |
