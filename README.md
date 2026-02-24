@@ -28,6 +28,6 @@ A hand-curated list of open, free, and useful [Sharkord](https://sharkord.com/) 
 See [CONTRIBUTING.md](https://github.com/TankObliterator/cool-sharkord-projects?tab=contributing-ov-file)
 
 ### Credits
-- Exists because of the [Sharkord maintainer](https://github.com/diogomartino)
-- Inspired by the [public-api-lists](https://github.com/public-api-lists/public-api-lists) repo
-- Original idea by [Sweets](https://github.com/Sweets-omg)
+- Exists because of the [Sharkord maintainer](https://github.com/diogomartino).
+- Inspired by the [public-api-lists](https://github.com/public-api-lists/public-api-lists) repo.
+- Original idea by [Sweets](https://github.com/Sweets-omg), see [their repo](https://github.com/Sweets-omg/sharkord-community-creations) for a less focused list.
