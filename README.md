@@ -12,15 +12,17 @@ A hand-curated list of open, free, and useful [Sharkord](https://sharkord.com/) 
 ## Clients
 🟩Prebuilt Download
 🟥No Prebuilt Download
-| Project | Preview | Personal Notes | Windows | Linux | MacOS |
+| Project | Preview | Description | Windows | Linux | MacOS |
 | :---: | :---: | --- | :---: | :---: | :---: |
-| [Sharkord Desktop](https://github.com/Bugel/sharkorddesktop) | [🖼️](https://github.com/TankObliterator/cool-sharkord-projects/tree/main/images/Sharkord%20Desktop) | The best/most feature complete option yet | 🟩 | 🟥 | 🟥 |
+| [Sharkord Desktop](https://github.com/Bugel/sharkorddesktop) | [🖼️](https://github.com/TankObliterator/cool-sharkord-projects/tree/main/images/Sharkord%20Desktop) | A desktop client for Sharkord featuring communities, server panel, and in-app input control. | 🟩 | 🟥 | 🟥 |
 
 ## Plugins
+🟩Working on Latest
+🟥Broken on Latest
 | Project | Description | Status |
 | :---: | --- | :---: |
-| [sharkord-music-bot](https://github.com/diogomartino/sharkord-music-bot) | Streams music directly in Sharkord | Working |
-| [sharkord-iptv](https://github.com/diogomartino/sharkord-iptv) | Streams IPTV channels directly in Sharkord | Working |
+| [sharkord-music-bot](https://github.com/diogomartino/sharkord-music-bot) | Streams music directly in Sharkord | 🟥 |
+| [sharkord-iptv](https://github.com/diogomartino/sharkord-iptv) | Streams IPTV channels directly in Sharkord | 🟥 |
 
 ## Other Info
 ### Contributing
