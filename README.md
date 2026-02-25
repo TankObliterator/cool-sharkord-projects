@@ -14,16 +14,16 @@ A hand-curated list of open, free, and useful [Sharkord](https://sharkord.com/) 
 🟥No Prebuilt Download
 | Project | Preview | Description | Windows | Linux | MacOS |
 | :---: | :---: | --- | :---: | :---: | :---: |
-| [Sharkord Desktop](https://github.com/Bugel/sharkorddesktop) | [🖼️](https://github.com/TankObliterator/cool-sharkord-projects/tree/main/images/Sharkord%20Desktop) | A desktop client for Sharkord featuring communities, server panel, and in-app input control. | 🟩 | 🟥 | 🟥 |
-| [Sweetshark Client](https://github.com/Sweets-omg/Sweetshark-client) | [🖼️](https://github.com/TankObliterator/cool-sharkord-projects/tree/main/images/Sweetshark%20Client) | A multi-server desktop client for Sharkord built with Electron. | 🟩 | 🟥 | 🟥 |
+| [Sharkord Desktop](https://github.com/Bugel/sharkorddesktop) | [🖼️](https://github.com/TankObliterator/cool-sharkord-projects/tree/main/images/Sharkord%20Desktop) | A desktop client for Sharkord featuring communities, server panel, and in-app input control | 🟩 | 🟥 | 🟥 |
+| [Sweetshark Client](https://github.com/Sweets-omg/Sweetshark-client) | [🖼️](https://github.com/TankObliterator/cool-sharkord-projects/tree/main/images/Sweetshark%20Client) | A multi-server desktop client for Sharkord built with Electron | 🟩 | 🟥 | 🟥 |
 
 ## Plugins
 🟩Working on Latest
 🟥Broken on Latest
 | Project | Description | Status |
 | :---: | --- | :---: |
-| [sharkord-music-bot](https://github.com/diogomartino/sharkord-music-bot) | Streams music directly in Sharkord | 🟥 |
-| [sharkord-iptv](https://github.com/diogomartino/sharkord-iptv) | Streams IPTV channels directly in Sharkord | 🟥 |
+| [sharkord-music-bot](https://github.com/diogomartino/sharkord-music-bot) | Allows users to stream music directly within Sharkord | 🟥 |
+| [sharkord-iptv](https://github.com/diogomartino/sharkord-iptv) | Allows users to stream IPTV channels directly within Sharkord | 🟥 |
 
 ## Other Info
 ### Contributing
