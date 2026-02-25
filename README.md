@@ -15,6 +15,7 @@ A hand-curated list of open, free, and useful [Sharkord](https://sharkord.com/) 
 | Project | Preview | Description | Windows | Linux | MacOS |
 | :---: | :---: | --- | :---: | :---: | :---: |
 | [Sharkord Desktop](https://github.com/Bugel/sharkorddesktop) | [🖼️](https://github.com/TankObliterator/cool-sharkord-projects/tree/main/images/Sharkord%20Desktop) | A desktop client for Sharkord featuring communities, server panel, and in-app input control. | 🟩 | 🟥 | 🟥 |
+| [Sharkord Desktop](https://github.com/Sweets-omg/Sweetshark-client) | [🖼️](https://github.com/TankObliterator/cool-sharkord-projects/tree/main/images/Sweetshark%20Client) | A multi-server desktop client for Sharkord built with Electron. | 🟩 | 🟥 | 🟥 |
 
 ## Plugins
 🟩Working on Latest
