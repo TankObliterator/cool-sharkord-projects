@@ -14,7 +14,7 @@ A hand-curated list of open, free, and useful [Sharkord](https://sharkord.com/) 
 🟥No Prebuilt Download
 | Project | Preview | Personal Notes | Windows | Linux | MacOS |
 | :---: | :---: | --- | :---: | :---: | :---: |
-| [Sharkord Desktop](https://github.com/Bugel/sharkorddesktop) | 🖼️ | The best/most feature complete option yet | 🟩 | 🟥 | 🟥 |
+| [Sharkord Desktop](https://github.com/Bugel/sharkorddesktop) | [🖼️](https://github.com/TankObliterator/cool-sharkord-projects/blob/main/images/placeholder.png) | The best/most feature complete option yet | 🟩 | 🟥 | 🟥 |
 
 ## Plugins
 | Project | Description | Status |
