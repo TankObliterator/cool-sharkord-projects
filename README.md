@@ -10,12 +10,11 @@ A hand-curated list of open, free, and useful [Sharkord](https://sharkord.com/) 
 - [Other Info](#other-info)
 
 ## Clients
-🟩Full Support
-🟨May Work but Must Build Yourself
-🟥No Support
-| Project | Description | Windows | Linux | MacOS |
-| :---: | --- | :---: | :---: | :---: |
-| [Sharkord Desktop](https://github.com/Bugel/sharkorddesktop) | A desktop client for the Sharkord project. | 🟩 | 🟨 | 🟨 |
+🟩Prebuilt Download
+🟥No Prebuilt Download
+| Project | Preview | Personal Notes | Windows | Linux | MacOS |
+| :---: | :---: | --- | :---: | :---: | :---: |
+| [Sharkord Desktop](https://github.com/Bugel/sharkorddesktop) | 🖼️ | The best/most feature complete option yet | 🟩 | 🟥 | 🟥 |
 
 ## Plugins
 | Project | Description | Status |
