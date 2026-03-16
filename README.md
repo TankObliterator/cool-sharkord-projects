@@ -24,6 +24,7 @@ A hand-curated list of open, free, and useful [Sharkord](https://sharkord.com/) 
 | :---: | --- | :---: |
 | [sharkord-music-bot](https://github.com/diogomartino/sharkord-music-bot) | Allows users to stream music directly within Sharkord | 🟩 |
 | [sharkord-iptv](https://github.com/diogomartino/sharkord-iptv) | Allows users to stream IPTV channels directly within Sharkord | 🟩 |
+| [sharkord-soundboard](https://github.com/rinky-dinky/sharkord-soundboard) | Adds a soundboard panel for playing sound effects in voice channels | 🟩 |
 
 ## Other Info
 ### Contributing
